@@ -33,8 +33,8 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Link Here]  
-- Email: [Your Email Here]  
+- LinkedIn: https://www.linkedin.com/in/ahmad-jaradat-484679369/
+- Email: ahmad.esam.jaradat@gmail.com 
 - GitHub: [https://github.com/ahmad-jaradat](https://github.com/ahmad-jaradat)  
 
 ---
