@@ -33,9 +33,17 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Link Here]  
-- Email: [Your Email Here]  
-- GitHub: [https://github.com/ahmad-jaradat](https://github.com/ahmad-jaradat)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/ahmad-jaradat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
