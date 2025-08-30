@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -50,6 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
