@@ -34,18 +34,19 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank">
+  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ahmad-jaradat" target="_blank">
+  <a href="https://github.com/ahmad-jaradat" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
