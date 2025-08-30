@@ -35,21 +35,22 @@
 ### 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/5968/5968534.svg" alt="Gmail" width="40" height="40"/>
-</a>
+  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://web.facebook.com/ahma.e.957484?locale=ar_AR" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/ahmadjaradat47/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/3670/3670125.svg" alt="Instagram" width="40" height="40"/>
-</a>
+  <a href="https://www.instagram.com/ahmadjaradat47/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
