@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ahmad-jaradat/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm Ahmad Jaradat</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Jaradat </h1>
 <h3 align="center">A Software Engineering Graduate & Aspiring Full-Stack Developer from Jordan</h3>
 
 ---
