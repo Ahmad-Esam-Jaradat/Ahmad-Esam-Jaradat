@@ -33,16 +33,23 @@
 ---
 
 ### 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank" style="text-decoration:none;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-jaradat-484679369/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank" style="text-decoration:none;">
+  <a href="mailto:ahmad.esam.jaradat@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://web.facebook.com/ahma.e.957484?locale=ar_AR" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahmadjaradat47/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
-
 
 
 
