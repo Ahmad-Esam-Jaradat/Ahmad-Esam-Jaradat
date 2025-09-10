@@ -57,4 +57,4 @@
 
 ---
 
-⭐ *"I believe in continuous learning and building one project at a time."*  
+⭐ *"The first rule of the code , Don't get caught"*  
