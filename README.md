@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🎓 Graduated in **Software Engineering**  
 - 📱 Experience in **Android Native** (with Firebase Realtime Database)  
-- 🌱 Currently learning **Web Development, .NET (C#), and MySQL**  
+- 🌱 Currently learning **Web Development, .NET (C#), and Sql Server**  
 - 🚀 Passionate about building **mobile & web applications**  
 - 🤝 Looking to collaborate on open-source projects and real-world apps  
 
